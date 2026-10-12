@@ -141,7 +141,7 @@ Open these three CSVs directly for the actual figures.
 
 ```bash
 git clone https://github.com/amirmahdibita/breast-cancer-diagnosis-replication.git
-cd breast-cancer-diagnosis-reproduction
+cd breast-cancer-diagnosis-replication
 pip install -r requirements.txt
 jupyter notebook breast_cancer_classification.ipynb
 ```
